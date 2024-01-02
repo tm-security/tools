@@ -1,4 +1,4 @@
-# tools
+# OSCP Tools Collection
 
 This is a collection of the tools I used while studying for, and taking the OSCP. 
 

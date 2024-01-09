@@ -10,7 +10,7 @@ sudo chown -R kali:kali /opt/tools
 ```
 
 ## How to Use
-I would then use [wwwtree](https://github.com/t3l3machus/wwwtree) to quickly host the files like this:
+I used [wwwtree](https://github.com/t3l3machus/wwwtree) to quickly host the files like this:
 ```bash
 ┌──(kali㉿kali)-[/opt/tools]
 └─$ ./wwwtree.py -r /opt/tools -i eth0 -q
